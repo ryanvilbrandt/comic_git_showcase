@@ -1,0 +1,6 @@
+.idea/
+venv/
+__pycache__/
+
+*.pyc
+comic_git_engine

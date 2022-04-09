@@ -1,0 +1,94 @@
+/*
+Change these options to customize the color scheme and a few layout options of your website.
+Most layout options are provided by the comic_git_engine in css/advanced_stylesheet.css.
+I do not recommend messing with those settings unless you know what you're doing, or you're
+willing to spend a lot of time on trial and error.
+
+For any colors, you can represent them in hexadecimal like this (#FF0000 = red)
+or use this list of available color names: https://www.w3schools.com/cssref/css_colors.asp
+ */
+
+/* Global values */
+body {
+    font-family: 'PT Sans', sans-serif;  /* The font of all the text on all pages */
+    color: black;  /* The color of the font of most of the text on your website */
+    background-color: white;  /* The color of the background behind everything */
+    background-image: url("../../../images/background_image.png");  /* The pattern on the background. Delete to change to a solid color
+                                                       or replace with your own image to tile across your background. */
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto Slab', cursive;
+}
+
+a {
+    color: #2E9BC7;  /* The color of the hyperlinks */
+}
+
+#container {
+    max-width: 1000px;  /* The width of the main box that contains all content on the pages */
+    background-color: white;  /* The background color of the main box */
+    box-shadow: 5px 5px 10px lightgray;  /* This is the drop shadow of the main box. If you change the background color
+                                            of your website, play with this or else it will look bad. */
+}
+
+/* Top navigation links bar */
+#links-bar {
+    background-color: #2E9BC7;  /* The background color of your links bar */
+}
+
+a.link-bar-link {
+    color: white;  /* The color of the links in your links bar */
+    font-weight: bold;  /* Delete this to unbold the links in your links bar*/
+    text-decoration: none;  /* Delete this line to put underlining on the links in your links bar */
+}
+
+a.link-bar-link:hover {
+    color: black;  /* The color of the links in your links bar while the cursor is hovering over them */
+}
+
+/* Comic navigation buttons */
+a.navigation-button {
+    color: #2E9BC7;  /* Color of the navigation bar hyperlinks */
+    font-size: 2em;  /* Size of the navigation bar hyperlinks */
+    text-decoration: none;  /* Delete this if you want your navigation links to be underlined */
+}
+
+a.navigation-button-disabled {
+    color: gray;  /* Color of the disabled navigation bar hyperlinks */
+    font-size: 2em;  /* Size of the disabled navigation bar hyperlinks */
+    text-decoration: none;  /* Delete this if you want your disabled navigation links to be underlined */
+}
+
+/* Buttons: turn any link into a button by adding class="button" within the a tag */
+.button {
+    background-color: #2E9BC7;  /* Color of button hyperlinks */
+    color: white;  /* Color of the words in button hyperlinks */
+}
+
+.button:hover {
+    background-color: #62C5E8;  /* Color of button hyperlinks when the mouse hovers over it */
+    color: white;    /* Color of the words in button hyperlinks when the mouse hovers over it */
+}
+
+/* Comic page-specific styling */
+#blurb {
+    background-color: #F6FBFE;  /* The color of the "blurb" box that contains post title, post date, tags, etc. */
+    width: 75%;  /* The maximum width of the blurb box. */
+    border-left: 3px dotted #62C5E8;  /* If you change the background color of the blurb, play with these two lines or else it will look bad */
+    border-right: 3px dotted #62C5E8;
+}
+
+h1#post-title {
+    color: black;  /* Color of the post title */
+    font-size: 3em;  /* Font size of the post title */
+    font-family: 'Roboto Slab', cursive;
+}
+
+#post-date {
+    font-weight: bold;  /* Delete this to unbold the post date */
+}
+
+#storyline, #characters, #tags {
+    font-style: italic;  /* Delete this to unitalicize the tags */
+}
