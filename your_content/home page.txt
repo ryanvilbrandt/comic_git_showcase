@@ -18,7 +18,7 @@
         <p>What you're seeing is the default website created by comic_git, a static-site generator hosted FOR FREE on GitHub Pages, that YOU can use to publish your own web comic easily and quickly!</p>
 
         <!-- If you want to make your link look like a button, add class="button" to your 'a' tag like so: -->
-        <a class="button" href="comic/197/#comic-page">First Page</a>
+        <a class="button" href="comic/p1/#comic-page">First Page</a>
 
         <a class="button" href="latest/#comic-page">Latest Page</a>
 
