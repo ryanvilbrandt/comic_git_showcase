@@ -15,15 +15,9 @@
     <div class="right-column">
         <h1>Welcome to comic_git!</h1>
 
-        <p>What you're seeing is the default website created by comic_git, a static-site generator hosted FOR FREE on GitHub Pages, that YOU can use to publish your own web comic easily and quickly!</p>
+        <p>This is a website dedicated to showing off the powers of comic_git, a webcomic generator written in Python and hosted on GitHub Pages! The purpose of comic_git is to provide webcomic creators a hosting solution that is free and 100% in their control!</p>
 
-        <!-- If you want to make your link look like a button, add class="button" to your 'a' tag like so: -->
-        <a class="button" href="comic/p1/#comic-page">First Page</a>
-
-        <a class="button" href="latest/#comic-page">Latest Page</a>
-
-        <p>Click <a href="comic/197/#comic-page">here</a> to go to the first page of the sample comic to see how it looks out-of-the-box.<br>
-            You can also click <a href="latest/#comic-page">here</a> to go to the latest page, which will always point to the most recently published comic.</p>
+        <p>Click <a href="comic/p1">here</a> to see a comic that goes more in-depth explaining the power and utility of comic_git!</p>
     </div>
 </div>
 <!-- That's the end of the column layout! Everything below this is just normal HTML. -->
@@ -31,4 +25,6 @@
 <h2>Instructions</h2>
 
 <p>To learn how to use comic_git, check out the <a href="https://github.com/ryanvilbrandt/comic_git/wiki">wiki</a>.<br>
-    If you'd like to jump right into creating your own webcomic with comic_git, read the <a href="https://github.com/ryanvilbrandt/comic_git/wiki/Getting-Started">Getting Started</a> section.</p>
+    If you'd like to jump right into creating your own webcomic, read the <a href="https://github.com/ryanvilbrandt/comic_git/wiki/Getting-Started">Getting Started</a> section.</p>
+
+<p><b>Note:</b> This whole website is built by comic_git! You can see how it's built over at the <a href="https://github.com/ryanvilbrandt/comic_git_showcase">GitHub repository</a>.</p>

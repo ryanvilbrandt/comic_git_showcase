@@ -1,0 +1,15 @@
+comic_git supports many, MANY more features than what you've seen in this comic! Including:
+
+* [Archive](/comic_git_showcase/archive/)
+* [Infinite scroll](/comic_git_showcase/infinite_scroll/)
+* [Markdown support](https://www.markdownguide.org/)
+* [Social media previews](https://github.com/ryanvilbrandt/comic_git/wiki/Extra-Features#Adding-Social-Media-Previews) (i.e. preview images that show up in Discord or Twitter posts)
+* [RSS feed](https://github.com/ryanvilbrandt/comic_git/wiki/Extra-Features#adding-an-rss-feed)
+* [Google Analytics](https://github.com/ryanvilbrandt/comic_git/wiki/Extra-Features#google-analytics)
+* [Transcripts](https://github.com/ryanvilbrandt/comic_git/wiki/Extra-Features#transcripts)
+* [Additional comics](https://github.com/ryanvilbrandt/comic_git/wiki/Extra-Features#extra-comics)
+* [Custom domains](https://github.com/ryanvilbrandt/comic_git/wiki/Advanced-Tips#moving-to-a-custom-domain)
+* [Scheduled posts](https://github.com/ryanvilbrandt/comic_git/wiki/Advanced-Tips#scheduled-posts)
+* [Custom code hooks](https://github.com/ryanvilbrandt/comic_git/wiki/Advanced-Tips#code-hooks)
+
+Head on over to [Getting Started](https://github.com/ryanvilbrandt/comic_git/wiki/Getting-Started) to begin your journey through comic_git, and don't forget to stop by our [Discord](https://discord.gg/zmdHGXB) to say hello!

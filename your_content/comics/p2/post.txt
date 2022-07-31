@@ -1,0 +1,3 @@
+Adding new comic pages really is as simple as [copying files into a folder and updating some text files](https://github.com/ryanvilbrandt/comic_git/wiki/Adding-Comic-Pages).
+
+If you want to change things like colors and fonts on your site, you just need to edit a [well-commented CSS file](https://github.com/ryanvilbrandt/comic_git_dev/blob/working/your_content/themes/default/css/stylesheet.css). comic_git also supports more advanced changes, like writing your own web pages from scratch or adding Javascript, via the use of [Themes](https://github.com/ryanvilbrandt/comic_git/wiki/Extra-Features#themes).
