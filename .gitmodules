@@ -1,0 +1,4 @@
+[submodule "comic_git_engine"]
+	path = comic_git_engine
+	url = https://github.com/ryanvilbrandt/comic_git_engine
+	branch = master
