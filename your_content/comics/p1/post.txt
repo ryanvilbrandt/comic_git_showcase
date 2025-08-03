@@ -1,3 +1,3 @@
 Follow Komi as she's guided through the wonderful world of comic_git!
 
-If you'd like to explore comic_git yourself, it's easy to do! Just follow the [Getting Started instructions](https://github.com/ryanvilbrandt/comic_git/wiki/Getting-Started) on our docs website, and you'll be up and running in no time with your very own web comic site that you control!
+If you'd like to explore comic_git yourself, it's easy to do! Just follow the [Getting Started instructions](https://comic-git.gitbook.io/documentation/getting-started/getting-started) on our docs website, and you'll be up and running in no time with your very own web comic site that you control!
